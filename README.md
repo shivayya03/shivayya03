@@ -28,9 +28,10 @@
 
 <div align="center">
   <br>
-
-  [🤖 AI Resume Analyzer](https://github.com/shivayya03/AI-Resume-Analyzer) &nbsp;•&nbsp; [🏥 Multi-Hospital Lab Data Analysis (EDA)](https://github.com/shivayya03/Multi-Hospital-Lab-Data-Analysis-EDA) &nbsp;•&nbsp; [📊 Student Stress Level Prediction](https://github.com/shivayya03/Student-Stress-Lavel-Prediction)
-
+**Repositories:**
+[AI Resume Analyzer](https://github.com/shivayya03/AI-Resume-Analyzer) •
+[Multi-Hospital Lab Data Analysis](https://github.com/shivayya03/Multi-Hospital-Lab-Data-Analysis-EDA) •
+[Student Stress Level Prediction](https://github.com/shivayya03/Student-Stress-Lavel-Prediction)
   <br>
 </div>
 
